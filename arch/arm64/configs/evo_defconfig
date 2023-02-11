@@ -1,6 +1,6 @@
 #
 # Automatically generated file; DO NOT EDIT.
-# Linux/arm64 4.19.270 Kernel Configuration
+# Linux/arm64 4.19.271 Kernel Configuration
 #
 
 CONFIG_OPLUS_SYSTEM_KERNEL_QCOM=y
@@ -20,7 +20,7 @@ CONFIG_THREAD_INFO_IN_TASK=y
 #
 CONFIG_INIT_ENV_ARG_LIMIT=32
 # CONFIG_COMPILE_TEST is not set
-CONFIG_LOCALVERSION="Krieg-Kernel-1.3.0"
+CONFIG_LOCALVERSION="-Krieg-Kernel-1.3.1"
 CONFIG_LOCALVERSION_AUTO=y
 CONFIG_BUILD_SALT=""
 CONFIG_HAVE_KERNEL_GZIP=y
