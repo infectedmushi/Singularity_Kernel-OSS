@@ -40,14 +40,14 @@ else
 	TIMESTAMP=$KBUILD_BUILD_TIMESTAMP
 fi
 if test -z "$KBUILD_BUILD_USER"; then
-	LINUX_COMPILE_BY="AnierinB"
+	LINUX_COMPILE_BY="apophis9283"
 else
-	LINUX_COMPILE_BY="AnierinB"
+	LINUX_COMPILE_BY="apophis9283"
 fi
 if test -z "$KBUILD_BUILD_HOST"; then
-	LINUX_COMPILE_HOST="EvolutionX"
+	LINUX_COMPILE_HOST="apophis9283-buildbox"
 else
-	LINUX_COMPILE_HOST="EvolutionX"
+	LINUX_COMPILE_HOST="apophis9283-buildbox"
 fi
 
 UTS_VERSION="#$VERSION"
