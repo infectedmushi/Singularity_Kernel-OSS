@@ -3,8 +3,8 @@ export KERNEL_DIR="/home/deepongi/Android/Singularity_Kernel"
 export KBUILD_OUTPUT="/home/deepongi/Android/Singularity_Kernel/out"
 export ZIP_DIR="/home/deepongi/Android/AnyKernel3"
 export ZIP_OUT_DIR="/home/deepongi/Android/Out_Zips"
-make O=out mrproper
-rm -rf out
+#make O=out mrproper
+#rm -rf out
 export PATH="/mnt/Hawai/toolchains/proton-clang-16/bin:$PATH"
 export USE_CCACHE=1
 export ARCH=arm64
